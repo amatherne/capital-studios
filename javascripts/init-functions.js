@@ -6,7 +6,7 @@
 
 // ignore this first line (its fidle mock) and it will return what ever you pass as json:... parameter... consider to change it to your ajax call
 $.ajax({
-    url: '/javascripts/data/cw_energy.json',
+    url: 'https://amatherne.github.io/capital-studios/javascripts/data/cw_energy.json',
     type: "post",
     dataType: "json",
     // data: {
@@ -47,7 +47,7 @@ function drawRow(rowData) {
 
 // ignore this first line (its fidle mock) and it will return what ever you pass as json:... parameter... consider to change it to your ajax call
 $.ajax({
-    url: '/javascripts/data/cs_water.json',
+    url: 'https://amatherne.github.io/capital-studios/javascripts/data/cs_water.json',
     type: "post",
     dataType: "json",
     // data: {
