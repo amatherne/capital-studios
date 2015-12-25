@@ -1,0 +1,24 @@
+ [{
+		"timestamp":	"2015-05-31T05:15:38Z",
+		"meter_type":	"hot_water",
+		"floor":         1,
+		"gallons":	159.664352,
+		"location_id":	"Capital Studios",
+		"Unit":	"118"
+	},
+{
+		"timestamp":	"2015-05-31T05:15:38Z",
+		"meter_type":	"cold_water",
+		"floor":    1,
+		"gallons":	68.525696,
+		"location_id":	"Capital Studios",
+		"Unit":	"118"
+	},
+{
+		"timestamp":	"2015-05-31T05:15:38Z",
+		"meter_type":	"cold_water",
+		"floor":    1,
+		"gallons":	68.525696,
+		"location_id":	"Capital Studios",
+		"Unit":	"118"
+	}]

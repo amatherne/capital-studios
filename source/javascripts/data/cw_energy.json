@@ -1,0 +1,32 @@
+[
+	{
+		"timestamp":	"2015-05-31T05:15:38Z",
+		"meter_type":	"energy-phase-A",
+		"floor":        1,
+		"kWH":	90.900002,
+		"location_id":	"Capital Studios",
+	    "phase": "A",
+		"Unit":	"129"
+	},
+{
+		"timestamp":	"2015-05-31T05:15:38Z",
+		"meter_type":	"energy-phase-B",
+		"floor":        1,
+		"kWH":	70.00002,
+		"location_id":	"Capital Studios",
+	    "phase": "B",
+		"Unit":	"129"
+	},
+{
+		"timestamp":	"2015-05-31T05:15:38Z",
+		"meter_type":	"energy-phase-B",
+		"floor":        1,
+		"kWH":	70.00002,
+		"location_id":	"Capital Studios",
+	    "phase": "B",
+		"Unit":	"129"
+	}
+]
+
+
+
